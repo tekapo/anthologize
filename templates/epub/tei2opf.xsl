@@ -29,7 +29,7 @@
         </dc:title>
         <dc:creator>Anthologize</dc:creator>
         <!-- How to change the language? This should be a user option -->
-        <dc:language>en-US</dc:language>
+        <dc:language>ja-JP</dc:language>
         <dc:rights/>
         <!--<dc:publisher>Jedisaber.com</dc:publisher>-->
         <dc:identifier id="{$book-id}">

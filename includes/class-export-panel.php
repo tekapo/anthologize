@@ -197,6 +197,7 @@ class Anthologize_Export_Panel {
 							<option value="times" class="serif">Serif</option>
 							<option value="helvetica" class="sans-serif">Sans-serif</option>
 							<option value="courier" class="fixed-width">Fixed-width</option>
+							<option value="osaka" class="osaka">osaka</option>
 						</select>
 					</div>
 
