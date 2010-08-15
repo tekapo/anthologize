@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Anthologize 0.3-alpha\n"
+"Project-Id-Version: Anthologize 0.4-alpha\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/anthologize\n"
 "POT-Creation-Date: 2010-08-10 16:30+0000\n"
-"PO-Revision-Date: 2010-08-15 09:56+0900\n"
+"PO-Revision-Date: 2010-08-15 10:58+0900\n"
 "Last-Translator: Tai <tekapo@gmail.com>\n"
 "Language-Team: Digitalcube <info@digitalcube.jp>\n"
 "MIME-Version: 1.0\n"
